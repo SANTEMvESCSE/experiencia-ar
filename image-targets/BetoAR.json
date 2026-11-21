@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/BetoAR_luminance.png",
+  "resources": {
+    "originalImage": "BetoAR_original.png",
+    "croppedImage": "BetoAR_cropped.png",
+    "thumbnailImage": "BetoAR_thumbnail.png",
+    "luminanceImage": "BetoAR_luminance.png"
+  },
+  "name": "BetoAR",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 0,
+    "left": 75,
+    "width": 482,
+    "height": 642,
+    "isRotated": true,
+    "originalWidth": 632,
+    "originalHeight": 642
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795229226172,
+  "updated": 1795229226172
+}

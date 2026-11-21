@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/Abrazo_luminance.png",
+  "resources": {
+    "originalImage": "Abrazo_original.png",
+    "croppedImage": "Abrazo_cropped.png",
+    "thumbnailImage": "Abrazo_thumbnail.png",
+    "luminanceImage": "Abrazo_luminance.png"
+  },
+  "name": "Abrazo",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 0,
+    "left": 35,
+    "width": 474,
+    "height": 632,
+    "isRotated": true,
+    "originalWidth": 544,
+    "originalHeight": 632
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795228549351,
+  "updated": 1795228549351
+}
