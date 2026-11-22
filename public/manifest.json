@@ -1,6 +1,6 @@
 {
-  "name": "Experiencia AR",
-  "short_name": "Experiencia AR",
+  "name": "ExperienciaAR",
+  "short_name": "ExperienciaAR",
   "description": "Experiencia de realidad aumentada creada con Zence Inverse Reality.",
   "start_url": "./",
   "scope": "./",
